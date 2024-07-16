@@ -12,7 +12,7 @@ seed_examples:
 task_description: 'Identify KYC Theft.'
 document:
   repo: https://github.com/Dheeraj-Arremsetty/instructlab-challenge.git
-  commit: 9cf2474f3fffa3530af26187740a8ae3ba24e19f
+  commit: 7610a4d3b06a8e78a2ee0546d3b2cb9c83c895f1
   patterns:
     - Identify_theft_kyc/identity-theft-kyc.md
 
