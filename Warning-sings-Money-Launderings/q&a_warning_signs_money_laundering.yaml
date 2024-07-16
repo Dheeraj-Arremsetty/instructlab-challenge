@@ -1,0 +1,20 @@
+created_by: dheeraj.arremsetty
+domain: financial
+seed_examples:
+  - question: What are some common warning signs of money laundering in the legal sector?
+    answer: Some common warning signs include unusual and secretive clients, unusual transactions, unusual source of funds, third-party funding, sudden changes in instructions, and legal services at high risk.
+  - question: Which legal services are most likely to be abused by money launderers?
+    answer: The national risk assessment identifies trust and company formation, conveyancing, and the operation of a client account as the services most likely to be abused by money launderers.
+  - question: What should firms do to mitigate the higher money laundering risks in conveyancing?
+    answer: Firms should ensure that the higher money laundering risks in conveyancing are reflected explicitly in their internal risk assessment and mitigated through comprehensive and effective customer due diligence (CDD).
+  - question: What are some warning signs in trust and company formation?
+    answer: Warning signs in trust and company formation include secretive or suspicious behavior by the client, formation of a shell company in an offshore jurisdiction without a legitimate commercial purpose, interposition of an entity in a transaction without any clear need, and unusually complex corporate structures.
+  - question: Which types of property transactions are considered high risk for money laundering?
+    answer: The national risk assessment says that special attention should be paid to transactions involving 'super-prime' residential property in London and Edinburgh. Commercial property takes longer to move and is therefore subject to a lower risk rating.
+task_description: 'Identify Money laundary in Financial Crimes.'
+document:
+  repo: https://github.com/Dheeraj-Arremsetty/instructlab-challenge.git
+  commit: 9cf2474f3fffa3530af26187740a8ae3ba24e19f
+  patterns:
+    - Warning-sings-Money-Launderings/warning-signs-money-laundering.md
+
