@@ -14,7 +14,7 @@ seed_examples:
 task_description: 'Identify Money laundary in Financial Crimes.'
 document:
   repo: https://github.com/Dheeraj-Arremsetty/instructlab-challenge.git
-  commit: 9cf2474f3fffa3530af26187740a8ae3ba24e19f
+  commit: f4071badb8d4b5395fb71a4a287927435210da19
   patterns:
     - Warning-sings-Money-Launderings/warning-signs-money-laundering.md
 
